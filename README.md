@@ -1,6 +1,7 @@
 # ESP32-S3-Smart-Desk-Terminal
 # ESP32-S3 Smart Desk Terminal (智能桌面气象终端)
-
+> 🚀 **【未来更新预告 / Future Roadmap】** 
+> 感谢大家的支持！本项目 V1.23 稳定版已完美闭环。目前作者正在闭关筹划 **2027 年大屏幕版本（Screen Plus）**，届时将适配更大分辨率（如 2.4寸/3.5寸）并加入更多前沿 AI 尝鲜功能。敬请期待！
 ![Status](https://img.shields.io/badge/Build-Stable-success.svg)
 ![Platform](https://img.shields.io/badge/Platform-ESP32--S3-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-Arduino-orange.svg)
